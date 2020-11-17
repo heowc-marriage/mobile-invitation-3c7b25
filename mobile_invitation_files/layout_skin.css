@@ -29,18 +29,18 @@
 .skin_e_illust {font-family: 'Noto Sans KR', sans-serif;}
 
 .massage_list .txt span {display: inline-block; width: 95%;}
-.guestbook_close {position:absolute; right:10px; top:10px; background:url(/resources/img_inc/btn_close.png) no-repeat center center #000; font-size:0px; text-indent:-999px;}
+.guestbook_close {position:absolute; right:10px; top:10px; background:url(./btn_close.png) no-repeat center center #000; font-size:0px; text-indent:-999px;}
 .guestbook_close a {display:block; width:24px; height:24px; padding:5px;}
-.skin_w_typo .mobile_wrap {background:url(/resources/skin/typo/bg_skin.png) repeat left top; background-size:30px 30px; -webkit-background-size:30px 30px; -moz-background-size:30px 30px;}
+.skin_w_typo .mobile_wrap {background:url(./bg_skin.png) repeat left top; background-size:30px 30px; -webkit-background-size:30px 30px; -moz-background-size:30px 30px;}
 
 .mobile_wrap {min-width:320px; text-align:center; min-height:100px; margin:0 auto;}
 .mobile_wrap img {max-width:100%; vertical-align:middle;}
 .mobile_wrap .pages .bg_line {padding-bottom:50px;}
 .mobile_wrap .pages h2 {padding:30px 0px 8px 0px;}
 .mobile_wrap .btn {display:inline-block;}
-.mobile_wrap #location.h_navi .navi {display:none;} 
-.mobile_wrap #location.h_navi .traffic_info {display:none;} 
-.mobile_wrap #location.h_navi h3 {display:none;} 
+.mobile_wrap #location.h_navi .navi {display:none;}
+.mobile_wrap #location.h_navi .traffic_info {display:none;}
+.mobile_wrap #location.h_navi h3 {display:none;}
 
 #start .d_day {text-align:center; width:100%; font-weight:bold;}
 #start .name {text-align:center; width:100%; text-align:center; font-size:0px;}
@@ -64,7 +64,7 @@
 .parent_contect > ul > li > strong > span {display:block; font-size:15px; height:26px;}
 .parent_contect > ul > li > ul {margin:15px 0px; color:#000;}
 .parent_contect > ul > li > ul.btn_contact_off>li { margin-bottom:10px; padding-left:10px; }
-.parent_contect .dot_line {background:url(/resources/skin/typo/bg_dotline.png) repeat-y left top; background-size:2px auto; -webkit-background-size:2px auto; -moz-background-size:2px auto;}
+.parent_contect .dot_line {background:url(./bg_dotline.png) repeat-y left top; background-size:2px auto; -webkit-background-size:2px auto; -moz-background-size:2px auto;}
 .parent_contect li.wife strong {color:#ef5685;}
 .parent_contect .btn_contact {text-align:center; padding:10px 0px;}
 .parent_contect .btn_contact li { display:inline-block;}
@@ -91,14 +91,14 @@
 #location .navi li .txt {display:block; padding-top:5px;}
 #location .hall_info {text-align:left; padding:10px 15px;}
 #location .hall_info li {padding-left:10px;  padding-bottom:5px; line-height:140%;}
-#location .hall_info li > strong {vertical-align:top; color:#000; display:block; min-width:100px; font-weight:bold; background:url(/resources/skin/typo/bul_navi.png) no-repeat left 9px; background-size:4px auto; -webkit-background-size:4px auto; -moz-background-size:4px auto; margin-left:-10px; padding-left:10px;}
+#location .hall_info li > strong {vertical-align:top; color:#000; display:block; min-width:100px; font-weight:bold; background:url(./bul_navi.png) no-repeat left 9px; background-size:4px auto; -webkit-background-size:4px auto; -moz-background-size:4px auto; margin-left:-10px; padding-left:10px;}
 #location .hall_info li > span {display:inline-block;}
 #location .traffic_info {text-align:center; padding:10px 0px;}
 #location .traffic_info li {display:inline-block; padding:0px 8px;}
 #location .traffic_info li .txt {display:block; padding-top:5px;}
 #location table td, #location table th {border:none; padding:2px 0px;}
 #location table td strong {color:#000; display:inline-block; min-width:100px;}
-#location table th {padding-left:10px; background:url(/resources/skin/typo/bul_navi.png) no-repeat left 9px; background-size:4px auto; -webkit-background-size:4px auto; -moz-background-size:4px auto; line-height:150%;}
+#location table th {padding-left:10px; background:url(./bul_navi.png) no-repeat left 9px; background-size:4px auto; -webkit-background-size:4px auto; -moz-background-size:4px auto; line-height:150%;}
 
 .skin_gallery {overflow:hidden; padding:10px;}
 .skin_gallery figure {float:left; width:33.33%; box-sizing:border-box; padding:7px;}
@@ -169,12 +169,12 @@
 
 /* typo */
 .skin_w_typo .mobile_wrap #start {background:none;}
-.skin_w_typo .mobile_wrap .pages {padding-top:10px; padding-bottom:30px; overflow:hidden; background:url(/resources/skin/typo/img_line.png) no-repeat center top; background-size:100% auto; -webkit-background-size:100% auto; -moz-background-size:100% auto;}
+.skin_w_typo .mobile_wrap .pages {padding-top:10px; padding-bottom:30px; overflow:hidden; background:url(./img_line.png) no-repeat center top; background-size:100% auto; -webkit-background-size:100% auto; -moz-background-size:100% auto;}
 .skin_w_typo #start .d_day {padding:20px 0px 15px 0px; color:#000; }
-.skin_w_typo #greeting dl {background:url(/resources/skin/typo/img_husband.png) no-repeat center top; background-size:48px auto; -webkit-background-size:48px auto; -moz-background-size:48px auto;}
-.skin_w_typo #greeting dl.wife {background:url(/resources/skin/typo/img_wife.png) no-repeat center top; background-size:48px auto; -webkit-background-size:48px auto; -moz-background-size:48px auto;}
-.skin_w_typo .parent_contect > ul > li > strong {background:url(/resources/skin/typo/bg_more.png) repeat center top; background-size:30px auto; -webkit-background-size:30px auto; -moz-background-size:30px auto;}
-.skin_w_typo .parent_contect .btn_toggle a {background:url(/resources/skin/typo/btn_toggle.png) no-repeat center top; background-size:18px auto; -webkit-background-size:18px auto; -moz-background-size:18px auto;}
+.skin_w_typo #greeting dl {background:url(./img_husband.png) no-repeat center top; background-size:48px auto; -webkit-background-size:48px auto; -moz-background-size:48px auto;}
+.skin_w_typo #greeting dl.wife {background:url(./img_wife.png) no-repeat center top; background-size:48px auto; -webkit-background-size:48px auto; -moz-background-size:48px auto;}
+.skin_w_typo .parent_contect > ul > li > strong {background:url(./bg_more.png) repeat center top; background-size:30px auto; -webkit-background-size:30px auto; -moz-background-size:30px auto;}
+.skin_w_typo .parent_contect .btn_toggle a {background:url(./btn_toggle.png) no-repeat center top; background-size:18px auto; -webkit-background-size:18px auto; -moz-background-size:18px auto;}
 .skin_w_typo #guest_book .btn {overflow:hidden; width:100%; border-radius:4px; border:2px solid #231815;}
 .skin_w_typo .btn {color:#000; background:#f3f2f0; min-height:26px; text-align:left; line-height:26px; min-width:103px; border-radius:30px; border:2px solid #fff; box-sizing:border-box;}
 .skin_w_typo #guest_book .btn a {color:#fff; display:block; line-height:26px; text-align:center; background:#231815;}
@@ -184,68 +184,68 @@
 .skin_w_typo #gift .gift_list li .txt_a {min-height:35px; background:#fff; padding-top:5px; margin-bottom:5px;}
 .skin_w_typo #gift .gift_list li strong { padding:3px 2px; border:2px solid #09bb9c; border-radius:30px; color:#09bb9c;}
 .skin_w_typo #gift .gift_list li strong.on {border:2px solid #999999; color:#999999;}
-.skin_w_typo .gift_more { background:url(/resources/skin/typo/bg_more.png) repeat left top; background-size:30px auto; -webkit-background-size:30px auto; -moz-background-size:30px auto;}
-.skin_w_typo #guest_book {background:url(/resources/skin/typo/bg_guest_book.png) repeat left top; background-size:30px auto; -webkit-background-size:30px auto; -moz-background-size:30px auto;}
-.skin_w_typo #guest_book .massage_list .txt .txt_del a {background:url(/resources/skin/typo/btn_x.png) no-repeat left top; background-size:10px auto; -webkit-background-size:10px auto; -moz-background-size:10px auto;}
-.skin_w_typo #guest_book .massage_list .time {background:url(/resources/skin/typo/icon_time.png) no-repeat left 2px; background-size:9px auto; -webkit-background-size:9px auto; -moz-background-size:9px auto;}
+.skin_w_typo .gift_more { background:url(./bg_more.png) repeat left top; background-size:30px auto; -webkit-background-size:30px auto; -moz-background-size:30px auto;}
+.skin_w_typo #guest_book {background:url(./bg_guest_book.png) repeat left top; background-size:30px auto; -webkit-background-size:30px auto; -moz-background-size:30px auto;}
+.skin_w_typo #guest_book .massage_list .txt .txt_del a {background:url(./btn_x.png) no-repeat left top; background-size:10px auto; -webkit-background-size:10px auto; -moz-background-size:10px auto;}
+.skin_w_typo #guest_book .massage_list .time {background:url(./icon_time.png) no-repeat left 2px; background-size:9px auto; -webkit-background-size:9px auto; -moz-background-size:9px auto;}
 .skin_w_typo .massage_btn li {float:right; width:49%; box-sizing:border-box; border:2px solid #fff; border-radius:4px;}
-.skin_w_typo .massage_btn li a { color:#fff; text-align:left; text-indent:20px; font-weight:bold; display:block; min-height:20px; line-height:20px; padding:10px 5px; background:url(/resources/skin/typo/icon_full.png) no-repeat 90% center; background-size:13px auto; -webkit-background-size:13px auto; -moz-background-size:13px auto;}
+.skin_w_typo .massage_btn li a { color:#fff; text-align:left; text-indent:20px; font-weight:bold; display:block; min-height:20px; line-height:20px; padding:10px 5px; background:url(./icon_full.png) no-repeat 90% center; background-size:13px auto; -webkit-background-size:13px auto; -moz-background-size:13px auto;}
 .skin_w_typo .massage_btn li.more {float:left;}
-.skin_w_typo .massage_btn li.more a {background:url(/resources/skin/typo/icon_more.png) no-repeat 90%  center; background-size:7px auto; -webkit-background-size:7px auto; -moz-background-size:7px auto;}
+.skin_w_typo .massage_btn li.more a {background:url(./icon_more.png) no-repeat 90%  center; background-size:7px auto; -webkit-background-size:7px auto; -moz-background-size:7px auto;}
 
 
 
 /* illust */
-.skin_w_illust #start { border:17px solid #f6bba1; padding-bottom:30px; background:url(/resources/skin/illust/bg_start.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
-.skin_w_illust #start .d_day {background:url(/resources/skin/illust/bg_d_day.png) no-repeat center top; background-size:204px auto; -webkit-background-size:204px auto; -moz-background-size:204px auto; height:20px; line-height:20px; padding:8px 0px 15px 0px; color:#fff; margin:20px 0px 15px 0px;}
+.skin_w_illust #start { border:17px solid #f6bba1; padding-bottom:30px; background:url(./bg_start.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
+.skin_w_illust #start .d_day {background:url(./bg_d_day.png) no-repeat center top; background-size:204px auto; -webkit-background-size:204px auto; -moz-background-size:204px auto; height:20px; line-height:20px; padding:8px 0px 15px 0px; color:#fff; margin:20px 0px 15px 0px;}
 .skin_w_illust #start .name li {color:#002350;}
 .skin_w_illust #start .time {color:#002350; padding:15px 0px 10px 0px;}
 .skin_w_illust #start .address {color:#ff905d;}
-.skin_w_illust #greeting {background:url(/resources/skin/illust/bg_greeting.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
-.skin_w_illust #greeting dl {padding-top:65px; background:url(/resources/skin/illust/img_husband.png) no-repeat center top; background-size:58px auto; -webkit-background-size:58px auto; -moz-background-size:58px auto;}
-.skin_w_illust #greeting dl.wife {background:url(/resources/skin/illust/img_wife.png) no-repeat center top; background-size:58px auto; -webkit-background-size:58px auto; -moz-background-size:58px auto;}
+.skin_w_illust #greeting {background:url(./bg_greeting.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
+.skin_w_illust #greeting dl {padding-top:65px; background:url(./img_husband.png) no-repeat center top; background-size:58px auto; -webkit-background-size:58px auto; -moz-background-size:58px auto;}
+.skin_w_illust #greeting dl.wife {background:url(./img_wife.png) no-repeat center top; background-size:58px auto; -webkit-background-size:58px auto; -moz-background-size:58px auto;}
 .skin_w_illust #greeting .greeting {color:#777777;}
-.skin_w_illust #greeting .img_line {height:35px; background:url(/resources/skin/illust/img_line.png) repeat-x left top; background-size:ato 35px; -webkit-background-size:auto 35px; -moz-background-size:auto 35px;}
+.skin_w_illust #greeting .img_line {height:35px; background:url(./img_line.png) repeat-x left top; background-size:ato 35px; -webkit-background-size:auto 35px; -moz-background-size:auto 35px;}
 .skin_w_illust .parent_contect > ul > li > strong {background:#ffdddb; border-bottom:1px solid #f9aabb; border-top:1px dotted #f9aabb}
-.skin_w_illust .parent_contect .dot_line {background:url(/resources/skin/illust/bg_dotline.png) repeat-y left top; background-size:2px auto; -webkit-background-size:2px auto; -moz-background-size:2px auto;}
-.skin_w_illust .parent_contect .btn_toggle a {background: url(/resources/skin/illust/btn_toggle.png) no-repeat center top; background-size: 18px auto; -webkit-background-size:18px auto; -moz-background-size:18px auto; overflow:hidden;}
-.skin_w_illust #gallery {background:url(/resources/skin/illust/bg_gallery.png) repeat left top; background-size:21px auto; -webkit-background-size:21px auto; -moz-background-size:21px auto; padding-bottom:20px;}
-.skin_w_illust #movie {background:url(/resources/skin/illust/bg_movie.png) repeat left top; background-size:3px auto; -webkit-background-size:3px auto; -moz-background-size:3px auto; padding-bottom:20px;}
-.skin_w_illust .btn {color:#fff; height:26px; line-height:26px; min-width:103px; text-align:center; background:url(/resources/skin/illust/bg_btn.png) no-repeat center top; background-size:auto 25px; -webkit-background-size:auto 25px; -moz-background-size:auto 25px;}
+.skin_w_illust .parent_contect .dot_line {background:url(./bg_dotline.png) repeat-y left top; background-size:2px auto; -webkit-background-size:2px auto; -moz-background-size:2px auto;}
+.skin_w_illust .parent_contect .btn_toggle a {background: url(./btn_toggle.png) no-repeat center top; background-size: 18px auto; -webkit-background-size:18px auto; -moz-background-size:18px auto; overflow:hidden;}
+.skin_w_illust #gallery {background:url(./bg_gallery.png) repeat left top; background-size:21px auto; -webkit-background-size:21px auto; -moz-background-size:21px auto; padding-bottom:20px;}
+.skin_w_illust #movie {background:url(./bg_movie.png) repeat left top; background-size:3px auto; -webkit-background-size:3px auto; -moz-background-size:3px auto; padding-bottom:20px;}
+.skin_w_illust .btn {color:#fff; height:26px; line-height:26px; min-width:103px; text-align:center; background:url(./bg_btn.png) no-repeat center top; background-size:auto 25px; -webkit-background-size:auto 25px; -moz-background-size:auto 25px;}
 .skin_w_illust .btn a {color:#fff; display:block; font-weight:bold;}
-.skin_w_illust .btn a.full {background:url(/resources/skin/illust/icon_full2.png) no-repeat 90% center; background-size:12px auto; -webkit-background-size:12px auto; -moz-background-size:12px auto;}
+.skin_w_illust .btn a.full {background:url(./icon_full2.png) no-repeat 90% center; background-size:12px auto; -webkit-background-size:12px auto; -moz-background-size:12px auto;}
 .skin_w_illust #movie .btn a { text-align:left; text-indent:14px;}
-.skin_w_illust #location {background:url(/resources/skin/illust/bg_location.png) repeat left top; background-size:35px auto; -webkit-background-size:35px auto; -moz-background-size:35px auto;}
-.skin_w_illust #location .img_line {height:24px; background:url(/resources/skin/illust/bg_race.png) repeat-x left top; background-size:ato 24px; -webkit-background-size:auto 24px; -moz-background-size:auto 24px;}
-.skin_w_illust #location .img_line.bottom {height:24px; background:url(/resources/skin/illust/bg_race_bottom.png) repeat-x left bottom;}
+.skin_w_illust #location {background:url(./bg_location.png) repeat left top; background-size:35px auto; -webkit-background-size:35px auto; -moz-background-size:35px auto;}
+.skin_w_illust #location .img_line {height:24px; background:url(./bg_race.png) repeat-x left top; background-size:ato 24px; -webkit-background-size:auto 24px; -moz-background-size:auto 24px;}
+.skin_w_illust #location .img_line.bottom {height:24px; background:url(./bg_race_bottom.png) repeat-x left bottom;}
 .skin_w_illust #location .navi a {color:#1976d2}
 .skin_w_illust #location .navi li:first-child a {color:#3abe17}
 .skin_w_illust #location .address dt {color:#188915;}
 .skin_w_illust #location .address dd {color:#5c8162;}
-.skin_w_illust #location .hall_info > li > strong {color:#188915; background:url(/resources/skin/illust/bul_navi.png) no-repeat left 9px; background-size:4px auto; -webkit-background-size:4px auto; -moz-background-size:4px auto;}
+.skin_w_illust #location .hall_info > li > strong {color:#188915; background:url(./bul_navi.png) no-repeat left 9px; background-size:4px auto; -webkit-background-size:4px auto; -moz-background-size:4px auto;}
 .skin_w_illust #location .hall_info > li > span {display:inline-block; color:#5c8162;}
-.skin_w_illust #gift {background:url(/resources/skin/illust/bg_gift.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
-.skin_w_illust #gift .gift_list li strong {color:#fff; height:26px; line-height:26px; text-align:center; background:url(/resources/skin/illust/bg_btn.png) no-repeat center top; background-size:87px 25px; -webkit-background-size:87px 25px; -moz-background-size:87px 25px;}
-.skin_w_illust #gift .gift_list li strong.on {background:url(/resources/skin/illust/bg_btn_on.png) no-repeat center top; background-size:87px 25px; -webkit-background-size:87px 25px; -moz-background-size:87px 25px;}
-.skin_w_illust .gift_more {background:url(/resources/skin/illust/bg_more.png) repeat left top; background-size:16px auto; -webkit-background-size:16px auto; -moz-background-size:16px auto;}
+.skin_w_illust #gift {background:url(./bg_gift.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
+.skin_w_illust #gift .gift_list li strong {color:#fff; height:26px; line-height:26px; text-align:center; background:url(./bg_btn.png) no-repeat center top; background-size:87px 25px; -webkit-background-size:87px 25px; -moz-background-size:87px 25px;}
+.skin_w_illust #gift .gift_list li strong.on {background:url(./bg_btn_on.png) no-repeat center top; background-size:87px 25px; -webkit-background-size:87px 25px; -moz-background-size:87px 25px;}
+.skin_w_illust .gift_more {background:url(./bg_more.png) repeat left top; background-size:16px auto; -webkit-background-size:16px auto; -moz-background-size:16px auto;}
 .skin_w_illust .gift_more a { color:#fc7a1a}
-.skin_w_illust #guest_book {padding-top:10px; padding-bottom:30px; background:url(/resources/skin/illust/bg_guest_book.png) repeat left top #c5ecf6; background-size:245px auto; -webkit-background-size:245px auto; -moz-background-size:245px auto;}
+.skin_w_illust #guest_book {padding-top:10px; padding-bottom:30px; background:url(./bg_guest_book.png) repeat left top #c5ecf6; background-size:245px auto; -webkit-background-size:245px auto; -moz-background-size:245px auto;}
 .skin_w_illust #guest_book .massage_box li span.tt { color:#5092b6}
 .skin_w_illust #guest_book .massage_box li {border-bottom:1px dotted #70c7d4; color:#a0c5de; border-top:none;}
-.skin_w_illust .btn_write a { padding:0px; color:#fff; height:26px; line-height:26px; text-align:center; background:url(/resources/skin/illust/bg_btn.png) no-repeat center top; background-size:auto 25px; -webkit-background-size:auto 25px; -moz-background-size:auto 25px;}
-.skin_w_illust #guest_book .massage_list .name {color:#5092b6; padding-left:10px; background:url(/resources/skin/illust/bul_12x12.png) no-repeat left 6px;  background-size:6px auto; -webkit-background-size:6px auto; -moz-background-size:6px auto;}
-.skin_w_illust #guest_book .massage_list .txt .txt_del a {background:url(/resources/skin/illust/btn_x.png) no-repeat left top; background-size:10px auto; -webkit-background-size:10px auto; -moz-background-size:10px auto;}
-.skin_w_illust #guest_book .massage_list .time {background:url(/resources/skin/illust/icon_time.png) no-repeat left 3px; background-size:9px auto; -webkit-background-size:9px auto; -moz-background-size:9px auto; color:#7b7b7b}
+.skin_w_illust .btn_write a { padding:0px; color:#fff; height:26px; line-height:26px; text-align:center; background:url(./bg_btn.png) no-repeat center top; background-size:auto 25px; -webkit-background-size:auto 25px; -moz-background-size:auto 25px;}
+.skin_w_illust #guest_book .massage_list .name {color:#5092b6; padding-left:10px; background:url(./bul_12x12.png) no-repeat left 6px;  background-size:6px auto; -webkit-background-size:6px auto; -moz-background-size:6px auto;}
+.skin_w_illust #guest_book .massage_list .txt .txt_del a {background:url(./btn_x.png) no-repeat left top; background-size:10px auto; -webkit-background-size:10px auto; -moz-background-size:10px auto;}
+.skin_w_illust #guest_book .massage_list .time {background:url(./icon_time.png) no-repeat left 3px; background-size:9px auto; -webkit-background-size:9px auto; -moz-background-size:9px auto; color:#7b7b7b}
 .skin_w_illust #guest_book .massage_list .txt {color:#5092b6;}
-.skin_w_illust .massage_btn li {background:url(/resources/skin/illust/bg_btn_blue.png) no-repeat center top; background-size:auto 25px; -webkit-background-size:auto 25px; -moz-background-size:auto 25px; display:inline-block;}
+.skin_w_illust .massage_btn li {background:url(./bg_btn_blue.png) no-repeat center top; background-size:auto 25px; -webkit-background-size:auto 25px; -moz-background-size:auto 25px; display:inline-block;}
 .skin_w_illust .massage_btn li a { display:block; color:#fff; min-width:100px; height:25px; line-height:25px;}
 
 
 /* illust2 */
-.skin_w_illust2 #start { border-top:3px solid #1f8850; border-bottom:3px solid #1f8850; padding-bottom:60px; background:url(/resources/skin/w_illust1/bg_start.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
+.skin_w_illust2 #start { border-top:3px solid #1f8850; border-bottom:3px solid #1f8850; padding-bottom:60px; background:url(./bg_start.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
 .skin_w_illust2 h2 {padding:0px !important;}
-.skin_w_illust2 #start .d_day {background:url(/resources/skin/w_illust1/bg_d_day.png) no-repeat center top; background-size:120px auto; -webkit-background-size:120px auto; -moz-background-size:120px auto; height:40px; line-height:80px; padding:8px 0px 15px 0px; font-size:2.5em; letter-spacing:1px; color:#1f8850; margin:60px 0px 30px 0px;}
-.skin_w_illust2 #start .visual {background:url(/resources/skin/w_illust1/bg_img_visual.png) no-repeat center top; background-size:400px auto; -webkit-background-size:400px auto; -moz-background-size:400px auto; height:300px; position:relative;}
+.skin_w_illust2 #start .d_day {background:url(./bg_d_day.png) no-repeat center top; background-size:120px auto; -webkit-background-size:120px auto; -moz-background-size:120px auto; height:40px; line-height:80px; padding:8px 0px 15px 0px; font-size:2.5em; letter-spacing:1px; color:#1f8850; margin:60px 0px 30px 0px;}
+.skin_w_illust2 #start .visual {background:url(./bg_img_visual.png) no-repeat center top; background-size:400px auto; -webkit-background-size:400px auto; -moz-background-size:400px auto; height:300px; position:relative;}
 .skin_w_illust2 #start .visual .name li {color:#002350; display:block; font-size:25px;  font-family:"맑은 고딕";}
 .skin_w_illust2 #start .visual .name li.input_husband {position: absolute; top: 35%; margin-left: auto; margin-right: auto; left: 0; right: 0;}
 .skin_w_illust2 #start .visual .name li.input_wife {position: absolute; bottom: 32%; margin-left: auto; margin-right: auto; left: 0; right: 0;}
@@ -259,16 +259,16 @@
 .skin_w_illust2 #greeting  dl dt span{ display: block; font-family:"맑은 고딕"; font-size:1.3em; font-weight:400;  }
 .skin_w_illust2 .parent_contect { margin-top:15%; font-family:"맑은 고딕";}
 .skin_w_illust2 .parent_contect ul li span.parent { display:block;border-bottom:1px solid #232323; border-top:2px solid #232323; padding:10px 0px;}
-.skin_w_illust2 .parent_contect .btn_toggle a { width:20px; height:20px; background: url(/resources/skin/w_illust1/btn_toggle.png) no-repeat center top; background-size: 20px auto; -webkit-background-size:20px auto; -moz-background-size:20px auto; overflow:hidden;}
+.skin_w_illust2 .parent_contect .btn_toggle a { width:20px; height:20px; background: url(./btn_toggle.png) no-repeat center top; background-size: 20px auto; -webkit-background-size:20px auto; -moz-background-size:20px auto; overflow:hidden;}
 .skin_w_illust2 .parent_contect .husband_c { color:#91c1a2}
 .skin_w_illust2 .parent_contect .parent_c { color:#e3a058}
 .skin_w_illust2 #gallery { background:#f3f0e4; padding-bottom:30px;}
 .skin_w_illust2 #gallery .skin_gallery { margin:2% 0%;}
 .skin_w_illust2 #movie {padding-bottom:20px;}
 .skin_w_illust2 #movie h2 {margin-bottom:30px;}
-.skin_w_illust2 .btn {color:#000; height:26px; line-height:26px; min-width:103px; text-align:center; background:url(/resources/skin/w_illust1/bg_btn.png) no-repeat center top; background-size:auto 25px; -webkit-background-size:auto 25px; -moz-background-size:auto 25px;}
+.skin_w_illust2 .btn {color:#000; height:26px; line-height:26px; min-width:103px; text-align:center; background:url(./bg_btn.png) no-repeat center top; background-size:auto 25px; -webkit-background-size:auto 25px; -moz-background-size:auto 25px;}
 .skin_w_illust2 .btn a {color:#000; display:block; font-weight:bold;}
-.skin_w_illust2 .btn a.full {background:url(/resources/skin/w_illust1/icon_full2.png) no-repeat 90% center; background-size:12px auto; -webkit-background-size:12px auto; -moz-background-size:12px auto;}
+.skin_w_illust2 .btn a.full {background:url(./icon_full2.png) no-repeat 90% center; background-size:12px auto; -webkit-background-size:12px auto; -moz-background-size:12px auto;}
 .skin_w_illust2 #movie .btn a { text-align:left; text-indent:14px;}
 .skin_w_illust2 #location { border-top:1px solid #CCC;}
 .skin_w_illust2 #location .navi{color:#656565; display:block; margin:auto 0; width:100%; font-family:"맑은 고딕";}
@@ -279,17 +279,17 @@
 .skin_w_illust2 #location .address dd {color:#705f57; font-family:"맑은 고딕"; letter-spacing:0.3px;}
 .skin_w_illust2 #location .address dd.icon_tel {position:absolute; right:15px; bottom:0%;margin-top:-26px; top:auto}
 .skin_w_illust2 #location .map_wrap {border: 4px solid #CCC}
-.skin_w_illust2 #location .hall_info { padding-left:10px;} 
+.skin_w_illust2 #location .hall_info { padding-left:10px;}
 .skin_w_illust2 #location .hall_info > li > strong {color:#188915; background:none; letter-spacing:0.3px; display:inline-block; min-width:50px;vertical-align:top; padding-top:2px;}
 .skin_w_illust2 #location .hall_info > li > span {display:block; color:#494848; font-family:"맑은 고딕"; letter-spacing:0.3px; padding-left:5px;}
 .skin_w_illust2 #location .traffic_info { text-align:left; padding-left:10px;}
 .skin_w_illust2 #location .traffic_info  li strong { color:#656565; min-width:50px; letter-spacing:0.3px; font-weight:600;}
 .skin_w_illust2 #location .traffic_info  li .txt { display:inline-block; font-family:"맑은 고딕"; letter-spacing:0.3px; padding-left:5px; text-decoration:underline;}
 .skin_w_illust2 #location .traffic_info  li .txt2 { padding-left:10px;}
-.skin_w_illust2 #gift {background:url(/resources/skin/w_illust1/bg_gift.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
-.skin_w_illust2 #gift .gift_list li strong {color:#fff; height:26px; line-height:26px; text-align:center; background:url(/resources/skin/w_illust1/bg_btn.png) no-repeat center top; background-size:87px 25px; -webkit-background-size:87px 25px; -moz-background-size:87px 25px;}
-.skin_w_illust2 #gift .gift_list li strong.on {background:url(/resources/skin/w_illust1/bg_btn_on.png) no-repeat center top; background-size:87px 25px; -webkit-background-size:87px 25px; -moz-background-size:87px 25px;}
-.skin_w_illust2 .gift_more {background:url(/resources/skin/w_illust1/bg_more.png) repeat left top; background-size:16px auto; -webkit-background-size:16px auto; -moz-background-size:16px auto;}
+.skin_w_illust2 #gift {background:url(./bg_gift.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
+.skin_w_illust2 #gift .gift_list li strong {color:#fff; height:26px; line-height:26px; text-align:center; background:url(./bg_btn.png) no-repeat center top; background-size:87px 25px; -webkit-background-size:87px 25px; -moz-background-size:87px 25px;}
+.skin_w_illust2 #gift .gift_list li strong.on {background:url(./bg_btn_on.png) no-repeat center top; background-size:87px 25px; -webkit-background-size:87px 25px; -moz-background-size:87px 25px;}
+.skin_w_illust2 .gift_more {background:url(./bg_more.png) repeat left top; background-size:16px auto; -webkit-background-size:16px auto; -moz-background-size:16px auto;}
 .skin_w_illust2 .gift_more a { color:#fc7a1a}
 .skin_w_illust2 #guest_book {padding:0px 0px 30px 0px; background:#f3f0e4; width:100%;}
 .skin_w_illust2 #guest_book>p.txt { padding-top:10px; color:#929292; font-family:"맑은 고딕"; letter-spacing:0.3px; font-weight:600; }
@@ -301,9 +301,9 @@
 .skin_w_illust2 #guest_book .massage_box li input{ width:80%;}
 .skin_w_illust2 #guest_book .massage_box .massage_tit {position:absolute; bottom:10%; margin-left:auto; margin-right:auto; left: 0; right: 0;}
 .skin_w_illust2 #guest_book .massage_list {width:80%; margin:auto 0; display:inline-block;  padding:15px; margin-top:15px}
-.skin_w_illust2 #guest_book .massage_list .name {color:#1f8850; font-size:1.4em; font-weight:500; font-family:"맑은 고딕"; letter-spacing:0.3px;  padding-left:10px; background:url(/resources/skin/w_illust1/bul_12x12.png) no-repeat left 3px;  background-size:6px auto; -webkit-background-size:6px auto; -moz-background-size:6px auto;}
-.skin_w_illust2 #guest_book .massage_list .txt .txt_del a { width:15px; height:15px;background:url(/resources/skin/w_illust1/btn_x.png) no-repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
-.skin_w_illust2 #guest_book .massage_list .time {font-family:"맑은 고딕"; letter-spacing:0.3px;background:url(/resources/skin/w_illust1/icon_time.png) no-repeat left 3px; background-size:10px auto; -webkit-background-size:10px auto; -moz-background-size:10px auto; color:#7b7b7b; top:15px;}
+.skin_w_illust2 #guest_book .massage_list .name {color:#1f8850; font-size:1.4em; font-weight:500; font-family:"맑은 고딕"; letter-spacing:0.3px;  padding-left:10px; background:url(./bul_12x12.png) no-repeat left 3px;  background-size:6px auto; -webkit-background-size:6px auto; -moz-background-size:6px auto;}
+.skin_w_illust2 #guest_book .massage_list .txt .txt_del a { width:15px; height:15px;background:url(./btn_x.png) no-repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
+.skin_w_illust2 #guest_book .massage_list .time {font-family:"맑은 고딕"; letter-spacing:0.3px;background:url(./icon_time.png) no-repeat left 3px; background-size:10px auto; -webkit-background-size:10px auto; -moz-background-size:10px auto; color:#7b7b7b; top:15px;}
 .skin_w_illust2 #guest_book .massage_list .txt {font-family:"맑은 고딕"; letter-spacing:0.3px;}
 .skin_w_illust2 .massage_btn li { background:#705f57; display:inline-block; font-family:"맑은 고딕"; letter-spacing:0.3px;}
 .skin_w_illust2 .massage_btn li a { display:block; color:#fff; min-width:100px; height:40px; line-height:40px; font-weight:600}
@@ -317,7 +317,7 @@
 .skin_w_luxury #start .name li {color:#fff; font-weight:bold; font-size:17px;}
 .skin_w_luxury #start .time {color:#fceba5; padding:10px 0px 10px 0px;}
 .skin_w_luxury #start .address {color:#fff;}
-.skin_w_luxury #greeting {background:url(/resources/skin/luxury/bg_greeting.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
+.skin_w_luxury #greeting {background:url(./bg_greeting.png) repeat left top; background-size:15px auto; -webkit-background-size:15px auto; -moz-background-size:15px auto;}
 .skin_w_luxury #greeting dl {width:100%; float:none; padding:5px 0px;}
 .skin_w_luxury #greeting dl.wife {padding-bottom:30px;}
 .skin_w_luxury #greeting dl dt span.blue {font-weight:normal;}
@@ -325,22 +325,22 @@
 
 .skin_w_luxury #greeting dl dd {padding:0px 10px;}
 .skin_w_luxury #greeting .greeting {color:#000;}
-.skin_w_luxury #greeting .parent_contect {background:url(/resources/skin/luxury/bg_line.png) no-repeat center top; background-size:320px auto; -webkit-background-size:320px auto; -moz-background-size:320px auto;}
+.skin_w_luxury #greeting .parent_contect {background:url(./bg_line.png) no-repeat center top; background-size:320px auto; -webkit-background-size:320px auto; -moz-background-size:320px auto;}
 .skin_w_luxury .parent_contect > ul > li > strong {background:#d9c287; border-bottom:1px solid #c29e4e; border-top:1px solid #c29e4e}
 .skin_w_luxury .parent_contect > ul > li.husband > strong { color:#1f588c}
 .skin_w_luxury .parent_contect > ul > li.husband > strong { color:#1f588c}
-.skin_w_luxury .parent_contect .dot_line {background:url(/resources/skin/luxury/bg_dotline.png) repeat-y left top; background-size:1px 5px; -webkit-background-size:1px 5px; -moz-background-size:1px 5px;}
+.skin_w_luxury .parent_contect .dot_line {background:url(./bg_dotline.png) repeat-y left top; background-size:1px 5px; -webkit-background-size:1px 5px; -moz-background-size:1px 5px;}
 .skin_w_luxury .parent_contect .btn_contact li {padding:0px 5px;}
-.skin_w_luxury .parent_contect .btn_toggle a {background: url(/resources/skin/luxury/btn_toggle.png) no-repeat center top; background-size: 18px auto; -webkit-background-size:18px auto; -moz-background-size:18px auto; overflow:hidden;}
-.skin_w_luxury #gallery {background:url(/resources/skin/luxury/bg_gallery.png) repeat left top; background-size:4px auto; -webkit-background-size:4px auto; -moz-background-size:4px auto; padding-bottom:20px;}
+.skin_w_luxury .parent_contect .btn_toggle a {background: url(./btn_toggle.png) no-repeat center top; background-size: 18px auto; -webkit-background-size:18px auto; -moz-background-size:18px auto; overflow:hidden;}
+.skin_w_luxury #gallery {background:url(./bg_gallery.png) repeat left top; background-size:4px auto; -webkit-background-size:4px auto; -moz-background-size:4px auto; padding-bottom:20px;}
 .skin_w_luxury .no_gallery {color:#fff;}
-.skin_w_luxury #movie {background:url(/resources/skin/luxury/bg_movie.png) no-repeat right 10px; background-size:181px auto; -webkit-background-size:181px auto; -moz-background-size:181px auto; margin-top:-5px; position:relative;}
-.skin_w_luxury #movie .img_line {height:15px; background:url(/resources/skin/luxury/bg_race.png) repeat-x left top; background-size:auto 15px; -webkit-background-size:auto 15px; -moz-background-size:auto 15px;}
-.skin_w_luxury #movie .img_line.bottom {height:24px; background:url(/resources/skin/luxury/bg_race_bottom.png) repeat-x left bottom; background-size:auto 15px; -webkit-background-size:auto 15px; -moz-background-size:auto 15px;}
+.skin_w_luxury #movie {background:url(./bg_movie.png) no-repeat right 10px; background-size:181px auto; -webkit-background-size:181px auto; -moz-background-size:181px auto; margin-top:-5px; position:relative;}
+.skin_w_luxury #movie .img_line {height:15px; background:url(./bg_race.png) repeat-x left top; background-size:auto 15px; -webkit-background-size:auto 15px; -moz-background-size:auto 15px;}
+.skin_w_luxury #movie .img_line.bottom {height:24px; background:url(./bg_race_bottom.png) repeat-x left bottom; background-size:auto 15px; -webkit-background-size:auto 15px; -moz-background-size:auto 15px;}
 .skin_w_luxury .btn {color:#fff; height:26px; text-align:left; line-height:26px; min-width:103px; border-radius:30px; border:2px solid #003152;}
 .skin_w_luxury .btn a {color:#fff; display:block; font-family:"맑은 고딕", "Malgun Gothic", "나눔고딕", "NanumGothic", "NanumGothicWEB", "돋움", Dotum, "굴림", Gulim, sans-serif; font-weight:bold; color:#003152;}
-.skin_w_luxury #movie  .btn a.full {background:url(/resources/skin/luxury/icon_full2.png) no-repeat 15px center; background-size:12px auto; -webkit-background-size:12px auto; -moz-background-size:12px auto; padding:0px 20px 0px 35px;}
-.skin_w_luxury #location {background:url(/resources/skin/luxury/bg_location.png) repeat left top; background-size:auto 5px; -webkit-background-size:auto 5px; -moz-background-size:auto 5px; padding-bottom:20px;}
+.skin_w_luxury #movie  .btn a.full {background:url(./icon_full2.png) no-repeat 15px center; background-size:12px auto; -webkit-background-size:12px auto; -moz-background-size:12px auto; padding:0px 20px 0px 35px;}
+.skin_w_luxury #location {background:url(./bg_location.png) repeat left top; background-size:auto 5px; -webkit-background-size:auto 5px; -moz-background-size:auto 5px; padding-bottom:20px;}
 .skin_w_luxury #location .hall_info {font-family:"맑은 고딕", "Malgun Gothic", "나눔고딕", "NanumGothic", "NanumGothicWEB", "돋움", Dotum, "굴림", Gulim, sans-serif; }
 .skin_w_luxury #location .navi a {color:#fff;}
 .skin_w_luxury #location .navi li:first-child a {color:#fff}
@@ -348,7 +348,7 @@
 .skin_w_luxury #location .traffic_info li .txt {font-family:"맑은 고딕", "Malgun Gothic", "나눔고딕", "NanumGothic", "NanumGothicWEB", "돋움", Dotum, "굴림", Gulim, sans-serif; color:#fff;}
 .skin_w_luxury #location .address dt {color:#ffe47d;}
 .skin_w_luxury #location .address dd {color:#fff;}
-.skin_w_luxury #location .hall_info > li > strong {color:#fff; background:url(/resources/skin/luxury/bul_navi.png) no-repeat left 9px; background-size:4px auto; -webkit-background-size:4px auto; -moz-background-size:4px auto;}
+.skin_w_luxury #location .hall_info > li > strong {color:#fff; background:url(./bul_navi.png) no-repeat left 9px; background-size:4px auto; -webkit-background-size:4px auto; -moz-background-size:4px auto;}
 .skin_w_luxury #location .hall_info > li > span {display:inline-block; color:#fff;}
 .skin_w_luxury #gift { background:#f1f1f2; font-family:"맑은 고딕", "Malgun Gothic", "나눔고딕", "NanumGothic", "NanumGothicWEB", "돋움", Dotum, "굴림", Gulim, sans-serif;}
 .skin_w_luxury #gift .gift_list li .photo {border:1px solid #efd18f; line-height:0px;}
@@ -365,8 +365,8 @@
 .skin_w_luxury .btn_write a { padding:6px 0px; color:#003152; line-height:26px; text-align:center; background:#fdd48d;}
 .skin_w_luxury #guest_book .massage_list { background:#1a4664;}
 .skin_w_luxury #guest_book .massage_list .name {color:#fff;}
-.skin_w_luxury #guest_book .massage_list .txt .txt_del a {background:url(/resources/skin/luxury/btn_x.png) no-repeat left top; background-size:10px auto; -webkit-background-size:10px auto; -moz-background-size:10px auto;}
-.skin_w_luxury #guest_book .massage_list .time {background:url(/resources/skin/luxury/icon_time.png) no-repeat left 3px; background-size:9px auto; -webkit-background-size:9px auto; -moz-background-size:9px auto; color:#a5c5db}
+.skin_w_luxury #guest_book .massage_list .txt .txt_del a {background:url(./btn_x.png) no-repeat left top; background-size:10px auto; -webkit-background-size:10px auto; -moz-background-size:10px auto;}
+.skin_w_luxury #guest_book .massage_list .time {background:url(./icon_time.png) no-repeat left 3px; background-size:9px auto; -webkit-background-size:9px auto; -moz-background-size:9px auto; color:#a5c5db}
 .skin_w_luxury #guest_book .massage_list .txt {color:#fff;}
 .skin_w_luxury #guest_book .btn { overflow:hidden;}
 .skin_w_luxury #guest_book .btn a {color: #003152; line-height: 26px; text-align: center; background: #fdd48d;}
@@ -374,9 +374,9 @@
 
 .skin_w_luxury .massage_btn li {float:right; width:49%; box-sizing: border-box; border: 2px solid #fff; border-radius: 4px;}
 .skin_w_luxury .massage_btn li a {color: #fff; text-align:center; font-weight: bold; display:block; padding: 10px 5px;}
-.skin_w_luxury .massage_btn li a span {display:inline-block; min-height: 20px; line-height: 20px; padding-left:20px; background: url(/resources/skin/luxury/icon_full.png) no-repeat left center; background-size: 14px auto; -webkit-background-size: 14px auto; -moz-background-size: 14px auto;}
+.skin_w_luxury .massage_btn li a span {display:inline-block; min-height: 20px; line-height: 20px; padding-left:20px; background: url(./icon_full.png) no-repeat left center; background-size: 14px auto; -webkit-background-size: 14px auto; -moz-background-size: 14px auto;}
 .skin_w_luxury .massage_btn li.more {float:left; border:2px solid #12b992; background:#12b992;}
-.skin_w_luxury .massage_btn li.more a span {background: url(/resources/skin/luxury/icon_more.png) no-repeat left center; background-size:13px auto; -webkit-background-size: 13px auto; -moz-background-size: 13px auto;}
+.skin_w_luxury .massage_btn li.more a span {background: url(./icon_more.png) no-repeat left center; background-size:13px auto; -webkit-background-size: 13px auto; -moz-background-size: 13px auto;}
 
 
 
@@ -622,7 +622,7 @@
 .skin_w_photo2 #location .address dt {color:#0086a7;letter-spacing:0.3px;}
 .skin_w_photo2 #location .address dd {color:#5c8162; font-family:"맑은 고딕"; letter-spacing:-0.8px;}
 .skin_w_photo2 #location .address dd.icon_tel {position:absolute; right:15px; bottom:0%;margin-top:-26px; top:auto}
-.skin_w_photo2 #location .hall_info { padding-left:10px;} 
+.skin_w_photo2 #location .hall_info { padding-left:10px;}
 .skin_w_photo2 #location .hall_info > li > strong {color:#0086a7; background:none; letter-spacing:0.3px; font-size:1.0em;}
 .skin_w_photo2 #location .hall_info > li > span {display:inline-block; color:#676767; font-family:"맑은 고딕"; letter-spacing:0.3px;}
 
@@ -841,7 +841,7 @@
 /* b_illust4 */
 
 .skin_b_illust4 #start { position:relative; background-image: url(/resources/skin/b_illust4/bg_top.png); background-size: 100% 100%;background-position: 50% 50%; background-repeat: no-repeat;padding: 80px 0;}
-	
+
 @media all and (orientation : landscape) {
    .skin_b_illust4 #start {
        background-size: 90% 100%;
@@ -913,11 +913,11 @@
 
 /* b_illust5 */
 .skin_b_illust5 #start { position:relative; background-image: url(/resources/skin/b_illust5/bg_top.png); background-size: 100% 100%;background-position: 50% 50%; background-repeat: no-repeat;padding: 80px 0;}
-	
+
 @media all and (orientation : landscape) {
    .skin_b_illust5 #start {
        background-size: 90% 100%;
-       padding: 120px 0; 
+       padding: 120px 0;
    }
 }
 .skin_b_illust5 #start { width:100%;}
